@@ -126,7 +126,8 @@ const MessageCarousel = () => {
         {/* Footer message */}
         <div className="text-center mt-12 animate-fade-in-up" style={{ animationDelay: "0.3s" }}>
           <p className="text-muted-foreground">
-            Dengan tulus dari hati 💙
+            Dengan tulus dari hati💙
+            Alay Nentod 🗣️
           </p>
         </div>
       </div>
