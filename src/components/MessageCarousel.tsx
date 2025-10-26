@@ -105,7 +105,7 @@ const MessageCarousel = () => {
             className="gap-2 hover:bg-primary/10"
           >
             <ChevronLeft className="w-5 h-5" />
-            <span className="hidden sm:inline">Sebelumnya</span>
+            <span className="hidden sm:inline">pencet ini kalo lo lupa pesan sebelumnya</span>
           </Button>
 
           <span className="text-sm text-muted-foreground font-medium">
@@ -118,7 +118,7 @@ const MessageCarousel = () => {
             size="lg"
             className="gap-2 hover:bg-primary/10"
           >
-            <span className="hidden sm:inline">Selanjutnya</span>
+            <span className="hidden sm:inline">dipencet ini biar ke text berikutnya</span>
             <ChevronRight className="w-5 h-5" />
           </Button>
         </div>
