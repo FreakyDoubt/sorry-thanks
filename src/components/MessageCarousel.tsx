@@ -24,7 +24,7 @@ const messages = [
     id: 3,
     title: "Harapan 💫",
     content: "Semoga aku dan kamu selalu menjadi teman level 1000 sampai bila bila!",
-    emoji: "✨💙🌟",
+    emoji: "✨💛🌟",
     gradient: "from-accent/20 to-secondary/20"
   }
 ];
@@ -126,7 +126,7 @@ const MessageCarousel = () => {
         {/* Footer message */}
         <div className="text-center mt-12 animate-fade-in-up" style={{ animationDelay: "0.3s" }}>
           <p className="text-muted-foreground">
-            Dengan tulus dari hati💙 <br />
+            Dengan tulus dari hati💛 <br />
             Alay dikit gapapa kan ca? 🥺
           </p>
         </div>
